@@ -28,7 +28,7 @@
 
 ![V免签部署界面](screenshots/newapi.png)
 
-
+[抖音：NewAPI + V免签一键部署使用教程](https://v.douyin.com/zXLktM4j3z8/)
 ## 下载
 
 请前往本仓库右侧的 Releases 页面下载最新版本。
