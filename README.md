@@ -8,27 +8,33 @@
 - 一键部署 NewAPI
 - 一键部署 V免签
 - 自动配置 HTTPS
-- 自动配置 NewAPI 支付接口/无需商户ID
+- 自动配置 NewAPI 支付接口，无需商户 ID
 - 检查部署状态
 - 提供清理和重新部署功能
+
 ## 界面预览
 
 ### 程序主界面
 
 ![NewAPI 与 V免签一键部署助手主界面](screenshots/main-window.png)
 
-### 系统检测 
+### 系统检测
 
 ![NewAPI 部署界面](screenshots/newapi-deploy.png)
 
 ### 部署结果
 
 ![部署结果](screenshots/deploy-result.png)
-### newapi网站
 
-![V免签部署界面](screenshots/newapi.png)
+### NewAPI 网站效果
 
-[抖音：NewAPI + V免签一键部署使用教程](https://v.douyin.com/zXLktM4j3z8/)
+![NewAPI 网站效果](screenshots/newapi.png)
+
+## 视频教程
+
+- [哔哩哔哩：NewAPI + V免签一键部署使用教程](https://b23.tv/hBCVqJt)
+- [抖音：NewAPI + V免签一键部署使用教程](https://v.douyin.com/zXLktM4j3z8/)
+
 ## 下载
 
 请前往本仓库右侧的 Releases 页面下载最新版本。
