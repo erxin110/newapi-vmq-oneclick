@@ -11,6 +11,23 @@
 - 自动配置 NewAPI 支付接口/不用商户ID
 - 检查部署状态
 - 提供清理和重新部署功能
+## 界面预览
+
+### 程序主界面
+
+![NewAPI 与 V免签一键部署助手主界面](screenshots/main-window.png)
+
+### 系统检测 
+
+![NewAPI 部署界面](screenshots/newapi-deploy.png)
+
+### 部署结果
+
+![部署结果](screenshots/deploy-result.png)
+### newapi网站
+
+![V免签部署界面](screenshots/newapi.png)
+
 
 ## 下载
 
